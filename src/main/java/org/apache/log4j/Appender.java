@@ -24,7 +24,7 @@ import org.apache.log4j.spi.LoggingEvent;
 
 /**
  * Implement this interface for your own strategies for outputting log
- * statements.
+ * statements..
  *
  * @author Ceki G&uuml;lc&uuml;
  */
